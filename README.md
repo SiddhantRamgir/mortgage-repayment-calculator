@@ -45,7 +45,7 @@ And you see the real impact instantly.
 
 Once deployed on Streamlit Cloud, your app will be live here:
 
-`[https://your-app-url.streamlit.app](https://mortgage-repayment-calculator-mjikaotabuf8to5juj4lpk.streamlit.app/)`
+`[https://mortgage-repayment-calculator-mjikaotabuf8to5juj4lpk.streamlit.app]`
 
 ---
 
